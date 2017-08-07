@@ -4,12 +4,6 @@ This repository contains all the resources and information that CodeClan student
 
 The following is an explanation of what the folders within this repository contain.
 
-### Coding Exercises
-
-These are the Coding exercises listed on the Implementation and Testing checklist that students are given at the start of the course. 
-
-IMPORTANT: Students will complete these exercises later in the course. Do not complete these exercises until they have been explained and introduced by the instructors.
-
 ### Cognitive test revision notes 
 
 These are all the notes needed as part of the revision for the cognitive tests. Students should use these resources to revise for the tests.
