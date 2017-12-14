@@ -2,6 +2,12 @@
 
 This repository contains all the resources and information that CodeClan students need to access as part of the SQA Professional Development Award in Software Development.
 
+### Example Repo
+
+The following is a link to an example repo. This repo demonstrates how your PDA evidence repo should be structured and look by the end of the course. 
+
+https://github.com/Klk1987/kat_kiernan_pda
+
 The following is an explanation of what the folders within this repository contain.
 
 ### Cognitive test revision notes 
