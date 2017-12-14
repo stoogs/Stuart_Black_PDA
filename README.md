@@ -8,8 +8,6 @@ The following is a link to an example repo. This repo demonstrates how your PDA 
 
 https://github.com/Klk1987/kat_kiernan_pda
 
-The following is an explanation of what the folders within this repository contain.
-
 ### Cognitive test revision notes 
 
 These are all the notes needed as part of the revision for the cognitive tests. Students should use these resources to revise for the tests.
