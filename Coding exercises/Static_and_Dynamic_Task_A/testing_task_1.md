@@ -1,14 +1,16 @@
-### Testing task B code:
+### Testing task 1:
+
+# Carry out static testing on the code below.
+# Comment on any errors that you see below.
+```ruby
+### Testing task 2 code:
 
 # Carry out dynamic testing on the code below.
 # Correct the errors below that you spotted in task 1.
 
+require_relative('card.rb')
 class CardGame
 
-  def initialize(suit, value)
-    @suit = suit
-    @value = value;
-  end
 
   def checkforAce(card)
     if card.value = 1
@@ -34,3 +36,6 @@ def self.cards_total(cards)
     return "You have a total of" + total
   end
 end
+
+
+```

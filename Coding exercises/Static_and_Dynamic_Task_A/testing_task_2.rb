@@ -1,14 +1,11 @@
-### Testing task A code:
+### Testing task 2 code:
 
-# Carry out Static testing on the code below.
+# Carry out dynamic testing on the code below.
 # Correct the errors below that you spotted in task 1.
 
+require_relative('card.rb')
 class CardGame
-
-  def initialize(suit, value)
-    @suit = suit
-    @value = value;
-  end
+  
 
   def checkforAce(card)
     if card.value = 1
