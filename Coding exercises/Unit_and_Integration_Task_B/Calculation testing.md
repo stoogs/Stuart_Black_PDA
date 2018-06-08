@@ -1,4 +1,4 @@
-##Section B: JavaScript Calculator Testing
+## Section B: JavaScript Calculator Testing
 
 
 |This activity relates to the following Outcome and Knowledge/Skills:
@@ -8,7 +8,7 @@
 |Carry out integration testing
 |Check the software meets specified requirements and carry out User Acceptance Testing.
 
-######There is another program in your USB stick.  Copy the files to your desktop and work on these. 
+###### There is another program in your USB stick.  Copy the files to your desktop and work on these. 
 
 The program is a Javascript calculator to be able to perform simple arithmetic functions in a web browser
 
@@ -21,7 +21,7 @@ The calculator object has properties to keep track of calculations as it perform
 Check the README.md in the calculator code directory for instructions on how to run the code.
 
 
-####Task 3: Unit Testing
+#### Task 3: Unit Testing
 
 You need to write unit tests to ensure that the majority of functions in the calculator operate correctly:
 
@@ -34,7 +34,7 @@ You need to write unit tests to ensure that the majority of functions in the cal
 	calculator.clearClick()
 	
 	
-####The program should correctly perform the following tasks:
+#### The program should correctly perform the following tasks:
 
 	multiply 3x5 and get 15
 	divide 21/7 and get 3
@@ -47,7 +47,7 @@ You need to write unit tests to ensure that the majority of functions in the cal
 Save your completed testing file onto the USB drive
 
 
-####Task 4: Integration and Acceptance Testing
+#### Task 4: Integration and Acceptance Testing
 
 User requirements:
 “As a user I want to be able to perform simple arithmetic functions in a web browser.”
